@@ -6,7 +6,7 @@ Don’t ask to ask just ask means when we are facing any issue or problems in or
 ### Right way of Asking for help 
 *	Is there anyone who can help me? I am trying to fix this problem but I am not able to understand what mistake I am making.
 
-## XY Problem
+# XY Problem
 XY problem means that your actual problem is x but instead of asking the solution about  your X problem you asked about the Y the solution you have in you mind.
 *	X = Real and actual problem. 
 *	Y = the solution that you are thinking.
