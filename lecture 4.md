@@ -13,5 +13,6 @@ XY problem means that your actual problem is x but instead of asking the solutio
 ### Example
 *	X = If your mobile is working slow.
 *	Y = you think that the Mobiles RAM is not working.
-*	And you asked people for help like that “RAM is not working or how to clear it.”
+*	And you asked people for help like that “RAM is not working or how to clear it".
+
 This is wrong you won’t tell people you actual problem you tell people about you Y which is wrong. Because of this the time is waste. Without telling the actual problem if you ask your Y solution then you won’t get any correct solution and waste the others people times. Always tell about your X actual problem.
